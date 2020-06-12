@@ -1,0 +1,37 @@
+Covid19
+Common:
+sore throat
+fatigue
+shortness of breath
+less common:
+diarrhea
+headache
+next
+sars
+common:
+high fever
+cough
+body pain
+less common:
+shortness of breath
+diarrhea
+next
+influenza
+common:
+cold fever
+vomitting
+diarrhea
+body ache
+less common:
+bloody stool 
+dizziness
+non urinating
+next
+malaria
+common:
+cold fever
+red eyes
+profuse sweating
+less common:
+convulsions
+bloody stools

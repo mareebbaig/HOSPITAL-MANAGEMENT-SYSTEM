@@ -1,0 +1,16 @@
+Covid19
+Dr.Areeb 5000
+Dr.Ramiz 4000
+Dr.Zahir 6000
+sars
+Dr.Unain 1500
+Dr.Inaam 5500
+Dr.Taaha 1000
+influenza
+Dr.Jamil 1500 
+Dr.Noman 4000
+Dr.Zoheb 2400
+malaria
+Dr.Irfan 7500
+Dr.Zaiyn 9000
+Dr.Javed 2000
